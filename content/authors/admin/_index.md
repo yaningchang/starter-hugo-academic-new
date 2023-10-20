@@ -1,12 +1,12 @@
 ---
-title: Ya-Ning Chang 張亞寧
-role: Professor of Artificial Intelligence
+title: Ya-Ning Chang  張亞寧
+role: Assistant Professor
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Cognitive Science
+  - Natural Language Processing
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,19 +30,13 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National Cheng Kung University, Taiwan
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Psychology
+      institution: The University of Manchester, UK
+    - course: MSc in Cognitive Science
+      institution: The University of Edinburgh, UK
 superuser: true
 status:
   icon: ☕️
@@ -51,6 +45,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Y﻿a-Ning Chang is an assistant professor at Miin Wu School of Computing, National Cheng Kung University. She completed her PhD in Psychology at the University of Manchester and worked as a postdoctoral researcher at various Universities and research institutes. Her work  involves using a combination of computational modelling, behavioural investigations, neuroimaging techiniques and corpous analysis to investigate various aspects of langauge processing and how the processes are related to education, learning and memory. She has applied computational modelling to langauge processing in different populations including children, adults and patients. She is also interested in extending research into life applications such as developing clincial screening tools for detecting langauge difficulties.
