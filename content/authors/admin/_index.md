@@ -1,5 +1,5 @@
 ---
-title: 張亞寧 Ya-Ning Chang
+title: 張亞寧/Ya-Ning Chang
 role: Assistant Professor
 bio: ""
 interests:
@@ -42,6 +42,6 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: yaningchang@gs.ncku.edu.tw
 ---
 Y﻿a-Ning Chang is an assistant professor at Miin Wu School of Computing, National Cheng Kung University. She completed her PhD in Psychology at the University of Manchester and worked as a postdoctoral researcher at various Universities and research institutes. Her work  involves using a combination of computational modelling, behavioural investigations, neuroimaging techiniques and corpous analysis to investigate various aspects of langauge processing and how the processes are related to education, learning and memory. She has applied computational modelling to langauge processing in different populations including children, adults and patients. She is also interested in extending research into life applications such as developing clincial screening tools for detecting langauge difficulties.
