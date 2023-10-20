@@ -1,8 +1,7 @@
 ---
-title: Ya-Ning Chang  張亞寧
+title: 張亞寧 Ya-Ning Chang
 role: Assistant Professor
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Cognitive Science
